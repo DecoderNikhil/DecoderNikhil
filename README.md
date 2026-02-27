@@ -58,7 +58,7 @@ Worked on backend systems for a production application, contributing across auth
 
 ### 🏥 NHMS – Healthcare Backend
 `Django · DRF · PostgreSQL · JWT`  
-[GitHub →](https://github.com/DecoderNikhil)
+[GitHub →](https://github.com/DecoderNikhil/nhms)
 
 A RESTful backend for managing patients, doctors, and patient-doctor mappings.
 - JWT-based authentication with role-secured APIs
@@ -69,7 +69,7 @@ A RESTful backend for managing patients, doctors, and patient-doctor mappings.
 
 ### 🗄️ AskDB
 `Python · PostgreSQL · Gemini`  
-[GitHub →](https://github.com/DecoderNikhil)
+[GitHub →](https://github.com/DecoderNikhil/askdb)
 
 Natural-language query interface for PostgreSQL — no SQL required.
 - Schema-aware query generation powered by Gemini
@@ -79,7 +79,7 @@ Natural-language query interface for PostgreSQL — no SQL required.
 
 ### 🌍 Tournado – Tour Booking Platform
 `Node.js · Express · MongoDB · Stripe · Pug`  
-[GitHub →](https://github.com/DecoderNikhil)
+[GitHub →](https://github.com/DecoderNikhil/tournado)
 
 Production-ready tour booking platform with MVC architecture.
 - JWT authentication and role-based access control
@@ -91,8 +91,14 @@ Production-ready tour booking platform with MVC architecture.
 
 ## 📊 GitHub Stats
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecoderNikhil&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DecoderNikhil&layout=compact&theme=default&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DecoderNikhil&theme=default" alt="Nikhil's GitHub Summary" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DecoderNikhil&theme=default" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DecoderNikhil&theme=default" alt="Most Commit Language" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=DecoderNikhil&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
