@@ -1,15 +1,102 @@
-<h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
-<h3 align="center">A passionate web developer from India</h3>
+# Hi, I'm Nikhil Kumar 👋
 
-- 🔭 I’m currently working on **BlogFlix**
+**Backend Engineer** | Delhi, India  
+📧 nikhils9802@gmail.com · 📞 +91 8800801043  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nikhil--kumar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/nikhil-kumar) [![GitHub](https://img.shields.io/badge/GitHub-DecoderNikhil-black?style=flat&logo=github)](https://github.com/DecoderNikhil)
 
-- 🌱 I’m currently learning **ReactJS**
+---
 
-- 📫 How to reach me **nikhils9802@gmail.com**
+## 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Backend engineer focused on building scalable REST APIs, secure authentication systems, and efficient background job pipelines. I have hands-on experience with Node.js, Django, PostgreSQL, Redis, and OAuth 2.0 integrations.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🔭 I enjoy architecting backend systems that are clean, performant, and production-ready
+- 📚 500+ DSA problems solved · 210-day streak on GeeksforGeeks
+- 🎓 B.Tech in Electronics & Communication Engineering — Delhi Skill and Entrepreneurship University (CGPA: 8.0/10)
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Java, JavaScript, TypeScript, Python, C |
+| **Backend** | Node.js, Express, NestJS, Django, Django REST Framework |
+| **Auth & APIs** | OAuth 2.0, JWT, REST APIs |
+| **Databases** | PostgreSQL, MongoDB, Redis |
+| **ORMs & Libraries** | Mongoose, Prisma, BullMQ |
+| **Frontend** | React, Tailwind CSS, HTML, CSS |
+| **Tools** | Git, GitHub, Postman, Jenkins, Cron Jobs |
+
+---
+
+## 💼 Experience
+
+### Fullstack Developer Intern — Dofin Tech Pvt Ltd
+`October 2025 – January 2026`
+
+Worked on backend systems for a production application, contributing across authentication, data access, and job processing layers:
+
+- Built and maintained **REST APIs** for content management and user administration using **Node.js and Express**
+- Designed and migrated background job workflows from MongoDB-based scheduling to **BullMQ (Redis)**, improving throughput and reliability
+- Integrated **OAuth 2.0** authentication flows with token lifecycle management
+- Reduced external API calls significantly through backend workflow optimization
+- Developed authentication features: OTP login, invitation-based onboarding, password reset, and profile management
+- Implemented **pagination, filtering, and sorting** for scalable data access
+- Contributed to frontend with reusable UI components and shared pagination patterns
+- Handled **dynamic sitemap generation** and SEO metadata for improved discoverability
+
+### Project Lead & Contributor — Timechain Summer of Code
+`June 2024 – November 2024`
+
+- Led backend architecture for a **blockchain-based peer-to-peer lending platform**
+- Designed database schema and implemented APIs for loan requests, funding, repayments, and interest distribution using **NestJS and PostgreSQL**
+
+---
+
+## 🚀 Projects
+
+### 🏥 NHMS – Healthcare Backend
+`Django · DRF · PostgreSQL · JWT`  
+[GitHub →](https://github.com/DecoderNikhil)
+
+A RESTful backend for managing patients, doctors, and patient-doctor mappings.
+- JWT-based authentication with role-secured APIs
+- Relational schema with foreign key relationships and user-specific data isolation
+- CRUD APIs with filtering and validation via Django ORM and ModelViewSets
+
+---
+
+### 🗄️ AskDB
+`Python · PostgreSQL · Gemini`  
+[GitHub →](https://github.com/DecoderNikhil)
+
+Natural-language query interface for PostgreSQL — no SQL required.
+- Schema-aware query generation powered by Gemini
+- Safe execution layer with query validation for reliable database operations
+
+---
+
+### 🌍 Tournado – Tour Booking Platform
+`Node.js · Express · MongoDB · Stripe · Pug`  
+[GitHub →](https://github.com/DecoderNikhil)
+
+Production-ready tour booking platform with MVC architecture.
+- JWT authentication and role-based access control
+- Stripe payment integration, reviews system
+- Advanced query features: filtering, sorting, pagination
+- Backend security: rate limiting and data sanitization
+
+---
+
+## 📊 GitHub Stats
+
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecoderNikhil&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DecoderNikhil&layout=compact&theme=default&hide_border=true)
+
+---
+
+## 📬 Get in Touch
+
+I'm open to backend engineering roles, freelance projects, and open-source collaborations.  
+Feel free to reach out at **nikhils9802@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/nikhil-kumar).
